@@ -2,16 +2,15 @@
 
 
 ### Notes
-Maeda laws of simplicity 
-scale
-language
-context
-
-touch feedback
-screen touch
-no sound 
-jonas input marda
-research wayfinding
+*Maeda laws of simplicity 
+* scale
+* language
+* context
+* touch feedback
+* screen touch
+* no sound 
+* jonas input marda
+* research wayfinding
 
 ### Vergangene Case Studies
 * [HS2017 · Aufgabe Case Study · Interface](https://signalwerk.github.io/IAD.LAB.DOC/exercise-case-study/)
