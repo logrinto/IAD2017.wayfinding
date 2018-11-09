@@ -20,10 +20,11 @@ Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten S
 Bewegen Sie sich im Umkreis von 400 Meter vom Gebäude an eine beliebigen Ort. Seien sie besort, dass Sie keiner Ihrer Gruppen-Mitglieder bereits visuell sehen. Senden Sie nun an ein zuvor abgemachtes Gruppenmitglied eine Sprachnachricht in dem Sie genau erklären, wo sie stehen. Denken Sie daran, sie wissen nicht, wo der ander Partner ist. Die Sprachnachricht darf vom andernen Mitglied der Gruppe nur einmal gehört werden. Sollten Sie den Partner nicht finden, fordern Sie eine neue Beschreibung an, ohne jedoch ihren aktuellen Standort bekannt zu geben. Drehen Sie danach die Rollen um.
 
 Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten Sie die Erkentnis fest.
+Machen Sie sich mit der Funktionalität und dem Umfang der smide-Applikation auseinander und Entwickeln Sie erste Ideen/Mockups.
 
 
 ## Termine & Abgabe
-Am 10. November 2018 um 11 Uhr muss ein Prototype präsentiert werden (10 min). Um 15 Uhr muss eine Präsentation der Interaktion als Beamer-Präsentation gezeigt werden (15 min) und als Issue in diesem Repository hoch geladen werden. Die Gestaltung und interaktion ist auf der Beamer-Präsentation ersichtlich.  
+Am 10. November 2018 um 11:30 Uhr muss ein Prototyp kurz präsentiert werden ( min). Um 15 Uhr muss eine Präsentation der Interaktion als Beamer-Präsentation gezeigt werden (15 min) und als Issue in diesem Repository hoch geladen werden. Die Gestaltung und interaktion ist auf der Beamer-Präsentation ersichtlich.  
 
 
 ## Technische Voraussetzung
@@ -50,9 +51,9 @@ Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerha
 * Die Realisation ist mit den vorgegebenen technischen Spezifikationen machbar
 
 ### Inhalt (10%)
-* Inhaltliche Strukturen/Konzepte wurden erhalten oder verstärkt
+* Bestehende Strukturen/Konzepte verbessert
 * Alle Inhaltselemente wurden genügend Visualisiert
-* Inhalte entsprechen dem Ist-Stand
+* Inhalte wurden bewusst reduziert
 
 ### Interaktion/Führung (50%)
 * Interaktion ist schlüssig und schnell zugänglich
