@@ -1,7 +1,9 @@
 # Case Study · Wayfinding
 
 ## Ausgangslage
-Die gestaltenden Personen haben die Aufgabe, für den eBike-Verleihservice [smide](https://smide.ch/) die bestehende App so zu adaptieren, dass künftig auch ein Verleih der eBikes über eine Smartwatch möglich ist. Es muss in Teams gearbeitet werden und die Bewertung erfolgt je Team. ACHTUNG! Es gibt KEINE neue Funktion gegenüber der jetzigen App. Explizit nicht die Wegfindung zum Endziel. Die Wegfindung zum eBike ist das Herzstück dieser Case Study. 
+Die gestaltenden Personen haben die Aufgabe, für den eBike-Verleihservice [smide](https://smide.ch/) die bestehende App so zu adaptieren, dass künftig auch ein Verleih der eBikes über eine Smartwatch möglich ist. Entwickelt werden Ideen/Mockups. Es muss in Teams gearbeitet werden und die Bewertung erfolgt je Team. ACHTUNG! Es gibt KEINE neue Funktion gegenüber der jetzigen App. NICHT die Wegfindung zum Reiseziel ist zu entwerfen, sondern die Wegfindung zum eBike ist das Herzstück dieser Case Study. 
+Vor Prototyping sollte Funktionalität und Umfang der smide-Applikation verstanden werden.
+
 
 ## Termine & Abgabe
 Am 10. November 2018 um 11:30 Uhr muss ein Prototyp kurz präsentiert werden (5 min). Um 15 Uhr muss eine Präsentation der Interaktion als Beamer-Präsentation gezeigt werden (15 min) und als Issue in diesem Repository hoch geladen werden. Die Gestaltung und interaktion ist auf der Beamer-Präsentation ersichtlich.  
@@ -35,7 +37,6 @@ Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten S
 
 
 ## Präsentation (11:30 Uhr)
-Machen Sie sich mit der Funktionalität und dem Umfang der smide-Applikation auseinander und Entwickeln Sie erste Ideen/Mockups.
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt.
 
 
