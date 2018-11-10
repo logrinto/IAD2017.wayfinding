@@ -10,7 +10,7 @@ Am 10. November 2018 um 11:30 Uhr muss ein Prototyp kurz präsentiert werden (5 
 
 ## Technische Voraussetzung
 Die Smartwatch erfüllt folgende technsiche Spzifikationen. Weitere Sensoren oder Input-Möglichkeiten sind nicht gegeben.
-* Touchscreen: 40 mm × 34 mm
+* Touchscreen: 34 mm × 40 mm
 * 4G Datenverbindung 
 * GPS
 * Vibrationseinheit
