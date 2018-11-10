@@ -36,7 +36,7 @@ Die Smartwatch erfüllt folgende technsiche Spzifikationen. Weitere Sensoren ode
 * Keine Hardware Buttons/Scrolls
 
 
-## Präsentation (11 Uhr)
+## Präsentation (11:30 Uhr)
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt.
 
 ## Abgabe & Präsentation (15 Uhr)
