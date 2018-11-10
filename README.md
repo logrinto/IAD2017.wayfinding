@@ -20,12 +20,10 @@ Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten S
 Bewegen Sie sich im Umkreis von 400 Meter vom Gebäude an eine beliebigen Ort. Seien sie besort, dass Sie keiner Ihrer Gruppen-Mitglieder bereits visuell sehen. Senden Sie nun an ein zuvor abgemachtes Gruppenmitglied eine Sprachnachricht in dem Sie genau erklären, wo sie stehen. Denken Sie daran, sie wissen nicht, wo der ander Partner ist. Die Sprachnachricht darf vom andernen Mitglied der Gruppe nur einmal gehört werden. Sollten Sie den Partner nicht finden, fordern Sie eine neue Beschreibung an, ohne jedoch ihren aktuellen Standort bekannt zu geben. Drehen Sie danach die Rollen um.
 
 Bewerten Sie in der Gruppe, was für Strategien sich geeignet haben und halten Sie die Erkentnis fest.
-Machen Sie sich mit der Funktionalität und dem Umfang der smide-Applikation auseinander und Entwickeln Sie erste Ideen/Mockups.
 
 
 ## Termine & Abgabe
 Am 10. November 2018 um 11:30 Uhr muss ein Prototyp kurz präsentiert werden ( min). Um 15 Uhr muss eine Präsentation der Interaktion als Beamer-Präsentation gezeigt werden (15 min) und als Issue in diesem Repository hoch geladen werden. Die Gestaltung und interaktion ist auf der Beamer-Präsentation ersichtlich.  
-
 
 ## Technische Voraussetzung
 Die Smartwatch erfüllt folgende technsiche Spzifikationen. Weitere Sensoren oder Input-Möglichkeiten sind nicht gegeben.
@@ -35,9 +33,10 @@ Die Smartwatch erfüllt folgende technsiche Spzifikationen. Weitere Sensoren ode
 * Vibrationseinheit
 * Keine Hardware Buttons/Scrolls
 
-
 ## Präsentation (11:30 Uhr)
+Machen Sie sich mit der Funktionalität und dem Umfang der smide-Applikation auseinander und Entwickeln Sie erste Ideen/Mockups.
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt.
+
 
 ## Abgabe & Präsentation (15 Uhr)
 * Wegfindung ist visualisiert werden
